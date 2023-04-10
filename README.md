@@ -28,6 +28,8 @@ Forgive me on what I am about to show below. I find these github stats logos so 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepnmenon&hide=css,jupyter%20notebook&layout=compact&theme=transparent&langs_count=8"/>  
 </td></tr></table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepnmenon" alt="sandeepnmenon" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepnmenon&no-bg=true" alt="sandeepnmenon" /></a> </p>
+-->
 
 
