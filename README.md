@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## I'm currently working and reading on
-1. Vision algorithms to make robot hands do simple tasks in any environment
-2. Energy based models
-3. GPT and diffusion models to generate stories
+1. Multi-modal deep learning models that combines multiple sensors on autonomou vehicles to learn a unified semantic representation of the surroundings
+1. Energy based models
+1. GPT and diffusion models to generate stories
 
-Forgive me on what I am about to show below. I find these github stats logos so cool :)
 <table>
 <tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sandeepnmenon&count_private=true&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=sandeepnmenon&count_private=true&show_icons=true&theme=transparent&hide_rank=true&custom_title=Github%20Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepnmenon&hide=css,jupyter%20notebook&layout=compact&theme=transparent&langs_count=8"/>  
 </td></tr></table>
 
