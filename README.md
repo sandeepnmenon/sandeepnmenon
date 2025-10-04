@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## I'm currently working and reading on
 1. Multi-modal deep learning models that combines multiple sensors on autonomous vehicles to learn a unified semantic representation of the surroundings.
-1. RAG based systems for information retrieval.
 1. Gaussian Splatting
 
 <table>
